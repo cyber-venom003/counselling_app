@@ -1,6 +1,12 @@
-# counselling_app
+# Counselling App :mortar_board:
 
-An application for digital counselling of students who cleared competitive examinations.
+A flutter app for students to give them a hassle free experience of college browsing.
+
+### CheckList
+- [x] Setup basic flutter UI
+- [x] Setup required controls for taking user inputs
+- [ ] Setup API Call for fetching required query output from database.
+- [ ] Display API output in form of UI.
 
 ## Getting Started
 
