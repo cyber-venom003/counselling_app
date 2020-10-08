@@ -33,7 +33,7 @@ class StartPage extends StatelessWidget {
                             textAlign: TextAlign.center,
                             style: TextStyle(
                               fontWeight: FontWeight.w600,
-                              fontSize: 20.5
+                              fontSize: 20.0
                             ),
                           )
                         ],
